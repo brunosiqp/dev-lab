@@ -1,6 +1,6 @@
 [
-  { "name": "Guri", "hp": 120, "atk": 25, "def": 10 },
-  { "name": "Shawty", "hp": 100, "atk": 30, "def": 8 },
-  { "name": "Fei", "hp": 90, "atk": 35, "def": 5 },
-  { "name": "Bombadao", "hp": 110, "atk": 20, "def": 15 }
+  { "name": "Guri", "hp": 120, "atk": 25, "def": 10, "skills": [{"name":"Power Strike","damage":15},{"name":"Heal","heal":20}] },
+  { "name": "Shawty", "hp": 100, "atk": 30, "def": 8, "skills": [{"name":"Quick Slash","damage":20},{"name":"Dodge","defBoost":10}] },
+  { "name": "Fei", "hp": 90, "atk": 35, "def": 5, "skills": [{"name":"Fury","damage":25}]} ,
+  { "name": "Bombadao", "hp": 110, "atk": 20, "def": 15, "skills": [{"name":"Shield Bash","damage":10},{"name":"Reinforce","defBoost":15}] }
 ]
