@@ -1,0 +1,6 @@
+[
+  { "name": "Guri", "hp": 120, "atk": 25, "def": 10 },
+  { "name": "Shawty", "hp": 100, "atk": 30, "def": 8 },
+  { "name": "Fei", "hp": 90, "atk": 35, "def": 5 },
+  { "name": "Bombadao", "hp": 110, "atk": 20, "def": 15 }
+]
