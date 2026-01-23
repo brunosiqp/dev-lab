@@ -27,5 +27,26 @@ Ce dépôt contient des projets en **Python, Java, HTML et CSS**, destinés à d
 
 ---
 
-## Structure / Estrutura / Structure
+## Contribution / Contribuição / Contribution
 
+This repository is primarily for personal learning, but contributions are welcome.
+If you want to add examples, tests, or experiments, feel free to open a pull request.
+
+Este repositório é principalmente para aprendizado pessoal, mas contribuições são bem-vindas.
+Se quiser adicionar exemplos, testes ou experimentos, fique à vontade para abrir um pull request.
+
+Ce dépôt est principalement pour l'apprentissage personnel, mais les contributions sont les bienvenues.
+Si vous souhaitez ajouter des exemples, tests ou expériences, n'hésitez pas à ouvrir une pull request.
+
+---
+
+## License / Licença / Licence
+
+This repository is open for educational use.
+All code is free to use, modify, and learn from.
+
+Este repositório está aberto para uso educacional.
+Todo o código é livre para usar, modificar e aprender.
+
+Ce dépôt est ouvert à un usage éducatif.
+Tout le code est libre à utiliser, modifier et apprendre.
