@@ -1,14 +1,31 @@
-# Dev Lab
+# Dev-Lab / Sandbox de Desenvolvimento / Bac à sable de développement
 
-This is a technical laboratory repository for experiments, controlled tests, proofs of concept (POCs), and issue-driven learning.
+Welcome to **Dev-Lab**, a personal development sandbox for **learning, experimenting, and testing** various technologies.  
+This repository contains projects in **Python, Java, HTML, and CSS**, designed for educational purposes and future implementation.
 
-The purpose is to validate solutions, patterns, and approaches before applying them to production repositories or future projects.
+Bem-vindo ao **Dev-Lab**, um sandbox pessoal de desenvolvimento para **aprendizado, experimentação e testes** de diversas tecnologias.  
+Este repositório contém projetos em **Python, Java, HTML e CSS**, destinados a fins educacionais e implementação futura.
 
-## Goals
-- Test ideas before integration
-- Isolate problem solving
-- Document learnings and outcomes
-- Build reusable solutions
+Bienvenue sur **Dev-Lab**, un bac à sable personnel pour **apprentissage, expérimentation et tests** de différentes technologies.  
+Ce dépôt contient des projets en **Python, Java, HTML et CSS**, destinés à des fins éducatives et à une utilisation future.
 
-## Structure
-Each folder represents an independent experiment or technical spike.
+---
+
+## Purpose / Objetivo / Objectif
+
+- **Learning:** Explore different programming languages and frameworks.  
+- **Testing:** Try new concepts, libraries, and functionalities safely.  
+- **Future Implementation:** Keep reusable code snippets and experimental projects for later development.
+
+- **Aprendizado:** Explorar diferentes linguagens de programação e frameworks.  
+- **Testes:** Experimentar conceitos, bibliotecas e funcionalidades de forma segura.  
+- **Implementação Futura:** Manter trechos de código reutilizáveis e projetos experimentais para desenvolvimento posterior.
+
+- **Apprentissage:** Explorer différentes langues et frameworks de programmation.  
+- **Tests:** Essayer de nouveaux concepts, bibliothèques et fonctionnalités en toute sécurité.  
+- **Implémentation future:** Conserver des extraits de code réutilisables et des projets expérimentaux pour un développement ultérieur.
+
+---
+
+## Structure / Estrutura / Structure
+
