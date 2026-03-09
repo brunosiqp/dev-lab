@@ -1,23 +1,231 @@
-# OS
+# ==========================================
+
+# DEV-LAB .gitignore
+
+# Repository for experiments and learning
+
+# Multiple programming languages
+
+# ==========================================
+
+# =========================
+
+# OPERATING SYSTEM
+
+# =========================
+
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Logs
+# =========================
+
+# EDITORS / IDEs
+
+# =========================
+
+.vscode/
+.idea/
+*.code-workspace
+
+# JetBrains
+
+*.iml
+out/
+
+# VS Code history
+
+.history/
+
+# =========================
+
+# LOG FILES
+
+# =========================
+
 *.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Env files
+# =========================
+
+# ENVIRONMENT / SECRETS
+
+# =========================
+
 .env
 .env.*
+*.env
+secrets/
+config.local.*
 
-# Dependencies
+# =========================
+
+# NODE / JAVASCRIPT / TYPESCRIPT
+
+# =========================
+
 node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# =========================
+
+# PYTHON
+
+# =========================
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+venv/
+.env/
+.venv/
+
+# =========================
+
+# JAVA
+
+# =========================
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+
+.mvn/
+target/
+
+# Gradle
+
+.gradle/
+build/
+
+# =========================
+
+# C / C++ / CMAKE
+
+# =========================
+
+*.o
+*.out
+*.exe
+*.obj
+
+build/
+cmake-build-*/
+
+# =========================
+
+# GO
+
+# =========================
+
+bin/
+pkg/
+
+# =========================
+
+# RUST
+
+# =========================
+
+target/
+Cargo.lock
+
+# =========================
+
+# PHP
+
+# =========================
+
 vendor/
 
-# Build
+# =========================
+
+# RUBY
+
+# =========================
+
+.bundle/
+vendor/bundle/
+
+# =========================
+
+# .NET
+
+# =========================
+
+bin/
+obj/
+*.user
+*.suo
+
+# =========================
+
+# LOCAL DATABASE FILES
+
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+
+# TEMPORARY FILES
+
+# =========================
+
+tmp/
+temp/
+*.tmp
+*.swp
+*.bak
+
+# =========================
+
+# TEST OUTPUTS
+
+# =========================
+
+coverage/
+reports/
+test-output/
+
+# =========================
+
+# DOCKER
+
+# =========================
+
+.docker/
+
+# =========================
+
+# BUILD OUTPUTS
+
+# =========================
+
 dist/
 build/
 out/
 
-# IDE
-.vscode/
-.idea/
+# =========================
+
+# PERSONAL / EXPERIMENT FILES
+
+# =========================
+
+notes/
+experiments/
