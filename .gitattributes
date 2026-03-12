@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto detect text files and normalize line endings
 
 * text=auto
@@ -51,3 +52,58 @@
 *.lock -diff
 *.min.js -diff
 *.min.css -diff
+=======
+# Auto detect text files and normalize line endings
+
+* text=auto
+
+# Enforce LF for source code
+
+*.js text eol=lf
+*.ts text eol=lf
+*.py text eol=lf
+*.java text eol=lf
+*.go text eol=lf
+*.rs text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.cs text eol=lf
+*.php text eol=lf
+*.rb text eol=lf
+*.sh text eol=lf
+*.sql text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Windows scripts
+
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.exe binary
+*.dll binary
+
+# Prevent diff noise
+
+*.lock -diff
+*.min.js -diff
+*.min.css -diff
+>>>>>>> 3fbae185d80044572d64797d37e1db7390ad5022
